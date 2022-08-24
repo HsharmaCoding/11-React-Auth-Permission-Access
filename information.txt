@@ -1,0 +1,29 @@
+1. Install the package to manage the form state/events/values.
+    > npm install react-hook-form
+
+2. Install the package for model/schema and data valodations.
+    > npm i yup
+
+3. Install the resolver. It act's as mapper between react-hook-form and yup.
+    > npm i @hookform/resolvers
+
+4. Some of the example of react-hook-form + yup + resolvers
+    > https://react-hook-form.com/api/useform/
+
+5.  Styled Components (CSS using Libraries)
+    > Install the package: npm install --save styled-components    
+    > For Typescript: npm i --save-dev @types/styled-components
+
+6. Install the bootsrtap for better user interface.
+    > npm install bootstrap --save 
+    > npm install --save @types/bootstrap
+
+7. Install the package for routing.
+    > npm i react-router-dom
+
+
+
+
+
+
+
