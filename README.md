@@ -7,7 +7,7 @@
     > username: admin, password: Admin@123
 6. Login Normal User. This user can not see the about page and Details/Edit button (user list action items)
     > username: user, password: User@123
-7. Login Normal supervisor. This user can not see the Detail button (user list action item)
+7. Login supervisor. This user can not see the Detail button (user list action item)
     > username: supervisor, password: Supervisor@123
 8. Install the package to manage the form state/events/values.
     > npm install react-hook-form
