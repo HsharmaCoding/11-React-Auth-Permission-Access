@@ -1,3 +1,10 @@
+Following task have been performed.
+1. Login screen.
+2. User list with search facility.
+3. Permission and Protected Route.
+4. View/Edit Permissions
+------------------------------------------------------------------------------
+
 1. Install the package to manage the form state/events/values.
     > npm install react-hook-form
 
@@ -20,6 +27,9 @@
 
 7. Install the package for routing.
     > npm i react-router-dom
+
+8. Install the package for API call.
+    > npm i axios
 
 
 
