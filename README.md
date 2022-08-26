@@ -17,7 +17,7 @@
     > npm i @hookform/resolvers
 11. Some of the example of react-hook-form + yup + resolvers
     > https://react-hook-form.com/api/useform/
-12.  Styled Components (CSS using Libraries)
+12. Styled Components (CSS using Libraries)
     > Install the package: npm install --save styled-components, For Typescript: npm i --save-dev @types/styled-components
 13. Install the bootsrtap for better user interface.
     > npm install bootstrap --save 
